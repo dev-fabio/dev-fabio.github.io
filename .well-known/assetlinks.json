@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.svapp",
+    "package_name": "com.example.sv_flutter_front",
     "sha256_cert_fingerprints":
     ["06:AA:45:11:51:EF:9E:7D:80:1D:A8:91:CB:60:E9:76:6B:4D:5E:8F:FB:22:4B:8D:66:26:AF:F9:D0:8F:22:08"]
   }
