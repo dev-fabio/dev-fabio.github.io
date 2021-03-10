@@ -4,7 +4,10 @@
     "details": [
       {
         "appID": "BWXXY73A25.com.sv.svapp",
-        "paths": ["*"]
+        "paths": [
+          "/svapp/event",
+          "/svapp/event/*"
+        ]
       }
     ]
   }
